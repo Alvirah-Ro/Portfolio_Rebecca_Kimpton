@@ -1,0 +1,17 @@
+nav {
+    color: rebeccapurple;
+}
+
+body {
+    background-color: lavender;
+}
+
+#top {
+    padding: 20px;
+}
+
+#intro {
+    background-color: rebeccapurple;
+    color: white;
+    padding: 10px;
+}
